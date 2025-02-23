@@ -30,8 +30,7 @@ Untuk pedoman kontribusi lebih lengkap, silakan cek file [CONTRIBUTING.md](CONTR
 
 ## 📢 Hubungi Kami
 Jika ada pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghubungi kami melalui:
-- 📧 Email: team.codegenesis@samsungcampus.com
-- 💬 Discord: [Code Genesis Community](#)
+- 📧 Email: thoriqfirdaus8@gmail.com
 - 📝 Issues & Discussions di repository ini!
 
 Terima kasih telah mengunjungi repository **Code Genesis**! 🚀
