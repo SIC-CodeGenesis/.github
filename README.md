@@ -1,5 +1,3 @@
-# .github
-
 # 🚀 Code Genesis | Samsung Innovation Campus
 
 ## 🌟 Selamat Datang di Code Genesis!
